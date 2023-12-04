@@ -1,0 +1,3 @@
+Entities==>
+(For user perspective)
+User->Tour->locations->Review->Booking
