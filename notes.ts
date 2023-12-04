@@ -18,4 +18,6 @@ Embedding: Use when there is a one-to-one or one-to-few relationship and the emb
 
 Referencing: Use when there is a one-to-many or many-to-many relationship, or when the related data is frequently updated. Suitable for cases like referencing users in a blog post document.
 
+  //A slug is a piece of text that is attached to the end of a URL (after the backslash ”/“) that is unique and locates the specific page of a website
+//slug===>awesome tour sylhet => awesome-tour-sylhet
 */
